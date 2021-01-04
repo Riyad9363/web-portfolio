@@ -60,5 +60,33 @@ p{
     text-align: center;
     color: dimgray;
 }
+
+.single-exprience{
+    box-shadow: 10px 10px 40px rgba(105, 105, 105, 0.404);
+    border-radius: 15px;
+    height: 80%;
+    background-color: white;
+}
+.experiance-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    border-radius: 15px;
+}
     
 
+    #baby-stack{
+        border-left: 7px solid;
+    border-image: linear-gradient( 180deg,rgb(255, 198, 91), orange );
+    border-image-slice: 1;}
+    }
+   footer {
+       text-align: center;
+       text-decoration: none;
+   }
+ 
